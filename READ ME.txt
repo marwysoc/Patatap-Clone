@@ -1,0 +1,4 @@
+This project uses:
+1. https://github.com/jonobr1/Neuronal-Synchrony
+2. Paper.js - http://paperjs.org
+3. Howler.js - https://howlerjs.com/ , https://github.com/goldfire/howler.js , https://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library
